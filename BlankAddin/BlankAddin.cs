@@ -9,7 +9,7 @@ using SolidWorks.Interop.sldworks;
 
 namespace BlankAddin
 {
-    [Guid("e6e9e0c7-2669-46d6-98ac-f11fdb29865b"),ComVisible(true)]
+    [Guid("YOUR_GUID_HERE"),ComVisible(true)]
     public class BlankAddin : SwAddin
     {
 
